@@ -1,0 +1,33 @@
+.container {
+    margin-top: 150px;
+    font-family: arial;
+}
+
+.text-card {
+    width: 190px;
+    height: 80px;
+    border: 1px solid black;
+    align-content: center;
+}
+
+.icons-card {
+    width: 180px;
+    height: 40px;
+    border: 1px solid black;
+    align-content: center;
+
+}
+
+.card-selector {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: #6c747c;
+}
+
+.color-icon {
+    color: white;
+}
